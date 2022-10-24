@@ -6,5 +6,6 @@ class Prg
     {
         Console.Write("Hello World");
         Console.Write("helll");
+        Console.Write("helll");
     }
 }
